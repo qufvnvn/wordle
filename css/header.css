@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #d3d6da;
+}
+
+.left-icon {
+  width: 30px;
+}
+
+.title {
+  font-weight: bold;
+  size: 100px;
+}
+
+.right-icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 30px;
+}
